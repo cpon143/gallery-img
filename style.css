@@ -1,34 +1,88 @@
 
 
 .rectangle-1, .rectangle-4{
-width: 1330px;
-height: 550px;
-
+width: 800px;
+height: 500px;
+justify-content: center;
 border-radius: 30px;
 }
-
-
-
 
 .rectangle-3 {
-width: 663px;
-height: 550px;
+width: 600px;
+height: 500px;
 left: 711px;
 top: 771px;
-
 border-radius: 30px;
 }
-
 
 p{
 position: absolute;
-width: 1234px;
-left: 65px;
-
+width: 800px;
+left: 320px;
+top:130px ;
 font-family: 'Poppins';
 font-style: normal;
-font-weight: 700;
-font-size: 190px;
+font-weight: 500;
+font-size: 120px;
+color: #00ffea;
+}
 
-color: #f36666;
+
+
+
+
+/* Rectangle 1 */
+
+.second-section-1{
+position: absolute;
+width: 748px;
+height: 544px;
+left: 26px;
+top: 1570px;
+
+border-radius: 30px;
+}
+
+/* Rectangle 2 */
+.second-section-2{
+position: absolute;
+width: 748px;
+height: 246px;
+left: 26px;
+top: 2152px;
+
+border-radius: 30px;
+}
+
+/* Rectangle 3 */
+.second-section-3{
+position: absolute;
+width: 483px;
+height: 246px;
+left: 820px;
+top: 1570px;
+
+border-radius: 30px;
+}
+
+/* Rectangle 4 */
+.second-section-4{
+position: absolute;
+width: 483px;
+height: 246px;
+left: 820px;
+top: 1865px;
+
+border-radius: 30px;
+}
+
+/* Rectangle 5 */
+.second-section-5{
+position: absolute;
+width: 483px;
+height: 246px;
+left: 820px;
+top: 2150px;
+
+border-radius: 30px;
 }
