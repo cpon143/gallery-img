@@ -35,7 +35,7 @@ color: #00ffea;
 
 .second-section-1{
 position: absolute;
-width: 748px;
+width: 843px;
 height: 544px;
 left: 26px;
 top: 1570px;
@@ -46,7 +46,7 @@ border-radius: 30px;
 /* Rectangle 2 */
 .second-section-2{
 position: absolute;
-width: 748px;
+width: 409px;
 height: 246px;
 left: 26px;
 top: 2152px;
@@ -57,9 +57,9 @@ border-radius: 30px;
 /* Rectangle 3 */
 .second-section-3{
 position: absolute;
-width: 483px;
+width: 377px;
 height: 246px;
-left: 820px;
+left: 926px;
 top: 1570px;
 
 border-radius: 30px;
@@ -68,9 +68,9 @@ border-radius: 30px;
 /* Rectangle 4 */
 .second-section-4{
 position: absolute;
-width: 483px;
+width: 377px;
 height: 246px;
-left: 820px;
+left: 926px;
 top: 1865px;
 
 border-radius: 30px;
@@ -79,10 +79,21 @@ border-radius: 30px;
 /* Rectangle 5 */
 .second-section-5{
 position: absolute;
-width: 483px;
+width: 377px;
 height: 246px;
-left: 820px;
+left: 926px;
 top: 2150px;
+
+border-radius: 30px;
+}
+
+/* Rectangle 6 */
+.second-section-6{
+position: absolute;
+width: 377px;
+height: 246px;
+left: 492px;
+top: 2152px;
 
 border-radius: 30px;
 }
